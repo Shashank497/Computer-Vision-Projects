@@ -1,4 +1,4 @@
-# 📄 Document Scanner using OpenCV (C++)
+# 📄 Document Scanner(C++)
 
 A real-time **document scanner** built using **C++ and OpenCV** that detects a document from a webcam feed, applies perspective transformation, and displays a top-down scanned view—similar to popular mobile scanning apps.
 
